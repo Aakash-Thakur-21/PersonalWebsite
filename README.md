@@ -5,14 +5,31 @@ Who is Pranav?
   - A Semi Professional Bass Player at a Rock Band called "The Eighth Chakra"
   - A football player; Position: Center Mid; Follows Chelsea FC and Bengaluru FC
 
+### Resume 
+
 
 ### Coding Profiles
 
-1. Leetcode - [https://leetcode.com/pranavsriram8/]
-2. Hackerrank - [https://www.hackerrank.com/pranavsriram8]
-3. GitHub - [https://github.com/pranavsriram8]
+1. [Leetcode](https://leetcode.com/pranavsriram8/)
+2. [Hackerrank](https://www.hackerrank.com/pranavsriram8)
+3. [GitHub](https://github.com/pranavsriram8)
 
-/*
+### Personal Projects
+ 1. QuickPool 
+    (more ideas being implemented) ==> coming soon!
+    
+### Hobbies 
+  1. Guitar
+  2. Football (Always up for a game)
+
+
+
+### Social Work
+
+
+### Personal Projects
+
+
 ```markdown
 Syntax highlighted code block
 
@@ -30,13 +47,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-*/
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranavsriram8/PersonalWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
